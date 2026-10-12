@@ -1,0 +1,7 @@
+openpyxl
+python-docx
+pypdf
+jieba
+rank_bm25
+python-dotenv
+openai
